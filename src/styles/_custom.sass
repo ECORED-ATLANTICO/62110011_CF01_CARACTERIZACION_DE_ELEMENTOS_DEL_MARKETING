@@ -3,14 +3,14 @@
   &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 69%
-    left: 20%
+    top: 55%
+    left: 0%
     width: 20%
   &-2
     animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
-    top: 27%
-    right: 12%
+    top: 74%
+    right: 23%
     width: 20%
 
 @keyframes float1
@@ -296,23 +296,28 @@ figcaption
   background-image: url("../assets/curso/tema1/img01.png") !important
   background-position: center
   background-size: 100% 100%
-  border-radius: 15px
+  border-radius: 30px
+  @media screen and (max-width: $bp-max-md)
+    background-size: cover
+    border-radius: 15px !important
 
 .bg-fondo-01
   background-image: url("../assets/curso/intro/bg01.png") !important
   background-position: center
   background-size: 100% 100%
-  border-radius: 15px
+  border-radius: 30px !important
   @media screen and (max-width: $bp-max-md)
     background-size: cover
+    border-radius: 15px !important
 
 .bg-fondo-02
   background-image: url("../assets/curso/tema1/img03.png") !important
   background-position: center
   background-size: 100% 100%
-  border-radius: 15px
+  border-radius: 30px !important
   @media screen and (max-width: $bp-max-md)
     background-size: cover
+    border-radius: 15px !important
 
 .bg-fondo-03
   background-image: url("../assets/curso/tema1/img08.png") !important
@@ -368,11 +373,11 @@ figcaption
   background-size: cover
   border-radius: 15px
 
-// .bg-fondo-09
-//   // background-image: url("../assets/curso/tema3/bg06.png") !important
-//   background-position: center
-//   background-size: cover
-//   border-radius: 15px
+.bg-fondo-10
+  background-image: url("../assets/curso/tema4/img12.png") !important
+  background-position: center
+  background-size: cover
+  border-radius: 15px
 
 .bg-fondo-11
   // background-image: url("../assets/curso/tema1/img17.png") !important
@@ -579,12 +584,12 @@ figcaption
 
 // Tabs A
 .tabs-a__tab
-  background-color: #C5F1FD !important
+  background-color: #FDF1C8 !important
   white-space: normal
   height: stretch
   // color: # !important
 .tabs-a.color-acento-botones .tabs-a__tab__selected
-  background-color: #6EDDF9 !important
+  background-color: #F9DD76 !important
   color: $color-sistema-texto !important
 .tabs-a__content-item
   display: flex
@@ -600,7 +605,7 @@ figcaption
     .tabs-a__tab__selected,
     .tabs-a__tab__selected:before,
     .tabs-a__tab:hover
-      background-color: #6EDDF9
+      background-color: #F9DD76
 
   // Ajuste tamaño contenedor izquierdo Tabs A
   @media (min-width: 1200px)
@@ -992,7 +997,7 @@ a, button, div
   background-color: #C5CFF0
 
 .tarjeta.color-acento-botones--borde
-  background-color: #FDFCEA
+  background-color: #FEF5F7
   // background-image: url("../assets/curso/tema1/bg04.png") !important
   background-size: cover
   background-position: buttom
@@ -1000,13 +1005,13 @@ a, button, div
   border: solid 1px transparent !important
 
 .tabs-a.color-acento-botones .tabs-a__tab__selected:before
-  background-color: #6EDDF9 !important
+  background-color: #F9DD76 !important
 
 .tabs-a.color-acento-botones .tabs-a__tab__selected:hover
-  background-color: #6EDDF9 !important
+  background-color: #F9DD76 !important
 
 .tabs-a.color-acento-botones .tabs-a__tab:hover
-  background-color: #6EDDF9 !important
+  background-color: #F9DD76 !important
   color: $color-sistema-texto !important
 
   //////////////CUSTON SLYDER-A////////

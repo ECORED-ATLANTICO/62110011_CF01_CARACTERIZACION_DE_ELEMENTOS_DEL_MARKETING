@@ -6,14 +6,14 @@ export default {
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
-      // {
-      //   clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-      //   imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
-      // },
-      // {
-      //   clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
-      //   imagen: '@/assets/curso/portada/banner-principal-decorativo-1.svg',
-      // },
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
+      },
+      {
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.svg',
+      },
     ],
   },
   menuPrincipal: {
@@ -177,22 +177,23 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Tendencias del <em>marketing</em>: neuromarketing y neuroventas',
+        titulo:
+          'Tendencias del <em>marketing</em>: <em>neuromarketing</em> y neuroventas',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Concepto de neuromarketing',
+            titulo: 'Concepto de <em>neuromarketing</em>',
             hash: 't_6_1',
           },
           {
             numero: '6.2',
-            titulo: 'Aplicaciones del neuromarketing',
+            titulo: 'Aplicaciones del <em>neuromarketing</em>',
             hash: 't_6_2',
           },
           {
             numero: '6.3',
-            titulo: 'Ejemplos de neuromarketing',
+            titulo: 'Ejemplos de <em>neuromarketing</em>',
             hash: 't_6_3',
           },
           {
@@ -423,12 +424,12 @@ export default {
       autores: [
         {
           nombre: 'Mario Morales Cabrera',
-          cargo: 'Experto temático logística',
+          cargo: 'Experto Temático',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jair Coll Gallardo',
-          cargo: 'Experto temático comercio y servicio',
+          cargo: 'Evaluador Instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

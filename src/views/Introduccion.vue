@@ -25,11 +25,11 @@
       .col-lg-9.order-2.order-lg-1.mb-0.mb-lg-0
         p.mb-3 Durante el desarrollo del componente se abordan conceptos relacionados con el <em>marketing</em>, la mezcla de <em>marketing</em>, el mercado, el cliente, la segmentación, el posicionamiento de marca y producto, el plan de mercadeo y la investigación de mercados, analizando sus características, componentes y criterios de aplicación en diferentes contextos organizacionales. 
         .container
-          .row.align-items-center.bg-fondo-01.br-15.mb-0.p-3
+          .row.align-items-center.bg-fondo-01.mb-0.p-3
             .col-lg-auto.order-1
               img.d-none.d-lg-flex(src="@/assets/curso/intro/img03.svg", style="max-width: 150px").mx-auto
             .col-lg.order-2
-              p.mb-0 Asimismo, se estudian las estrategias de <em>marketing</em>, el <em>marketing online</em>, el neuromarketing y las neuroventas como herramientas que apoyan la toma de decisiones comerciales y la generación de ventajas competitivas.
+              p.mb-0 Asimismo, se estudian las estrategias de <em>marketing</em>, el <em>marketing online</em>, el <em>neuromarketing</em> y las neuroventas como herramientas que apoyan la toma de decisiones comerciales y la generación de ventajas competitivas.
           
     p.mb-0(data-aos="fade-right") El componente integra ejemplos empresariales, recursos audiovisuales y actividades de aprendizaje que facilitan la comprensión de los contenidos y su aplicación en situaciones reales. De esta manera, se fortalece la capacidad del aprendiz para seleccionar los componentes estratégicos del <em>marketing</em> acordes con las características del mercado, las necesidades de la organización y los objetivos comerciales, favoreciendo el diseño de estrategias orientadas a la creación de valor y al fortalecimiento de la relación con los clientes.
 

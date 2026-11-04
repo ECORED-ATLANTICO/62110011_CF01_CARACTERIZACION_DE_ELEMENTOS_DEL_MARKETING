@@ -474,7 +474,8 @@ export default {
         },
         {
           id: 14,
-          texto: '¿Cuál es una ventaja de utilizar el <em>marketing online</em>?',
+          texto:
+            '¿Cuál es una ventaja de utilizar el <em>marketing online</em>?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
