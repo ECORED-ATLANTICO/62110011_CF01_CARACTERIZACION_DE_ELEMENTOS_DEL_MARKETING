@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Componentes estratégicos del <em>marketing</em>',
     Description:
-      'El componente formativo aborda fundamentos y elementos esenciales del <em>marketing</em>, orientados a la comprensión del mercado, el comportamiento del consumidor y las necesidades de la organización. Desarrolla aspectos relacionados con la mezcla de <em>marketing</em>, la segmentación de mercados, el posicionamiento de marca y producto, la investigación de mercados, el plan de mercadeo y las estrategias de <em>marketing</em>, incluyendo tendencias como el <em>marketing online</em>, el neuromarketing y las neuroventas, con el propósito de seleccionar componentes estratégicos que contribuyan al cumplimiento de objetivos comerciales de la organización.',
+      'El componente formativo aborda fundamentos y elementos esenciales del <em>marketing</em>, orientados a la comprensión del mercado, el comportamiento del consumidor y las necesidades de la organización. Desarrolla aspectos relacionados con la mezcla de <em>marketing</em>, la segmentación de mercados, el posicionamiento de marca y producto, la investigación de mercados, el plan de mercadeo y las estrategias de <em>marketing</em>, incluyendo tendencias como el <em>marketing online</em>, el <em>neuromarketing</em> y las neuroventas, con el propósito de seleccionar componentes estratégicos que contribuyan al cumplimiento de objetivos comerciales de la organización.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
@@ -245,7 +245,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/62110009_CF02_CFA.zip',
+        download: 'downloads/62110011_CF01_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -296,14 +296,14 @@ export default {
         'Disciplina orientada a identificar, crear, comunicar y entregar valor a los clientes, contribuyendo al cumplimiento de los objetivos de la organización.',
     },
     {
-      termino: '<em>Marketing online</em>',
-      significado:
-        'Conjunto de estrategias y acciones de <em>marketing</em> desarrolladas mediante medios y plataformas digitales para atraer, interactuar y fidelizar clientes.',
-    },
-    {
       termino: '<em>Marketing</em> sensorial',
       significado:
         'Estrategia que utiliza los sentidos (vista, oído, olfato, gusto y tacto) para influir en las percepciones y decisiones de compra del consumidor.',
+    },
+    {
+      termino: '<em>Marketing online</em>',
+      significado:
+        'Conjunto de estrategias y acciones de <em>marketing</em> desarrolladas mediante medios y plataformas digitales para atraer, interactuar y fidelizar clientes.',
     },
     {
       termino: 'Mercado',
@@ -321,7 +321,7 @@ export default {
         'Conjunto de variables controlables utilizadas por una organización para satisfacer las necesidades del mercado y alcanzar sus objetivos comerciales.',
     },
     {
-      termino: 'Neuromarketing',
+      termino: '<em>Neuromarketing</em>',
       significado:
         'Aplicación de conocimientos de la neurociencia para comprender el comportamiento del consumidor y mejorar las estrategias de <em>marketing</em>.',
     },

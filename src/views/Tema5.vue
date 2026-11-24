@@ -223,7 +223,7 @@
             .col-lg-auto.d-none.d-lg-block
               img(src="@/assets/curso/tema1/img26.png", style="width: 210px; max-width: 210px; margin-left: -70px; margin-top: -35px; margin-bottom: -35px; position: relative; z-index: 1;").mx-auto
             .col-12.col-lg.mb-3.mb-lg-0
-              h4.mb-2 Video sugerido. ¿Qué es <em>Marketing</em> Digital? Introducción, Tipos y Canales
+              h4.mb-2 Video sugerido. ¿Qué es <em>Marketing</em> digital? Introducción, tipos y canales
               p.mb-0 Para comprender el concepto de <em>marketing online</em>, sus principales estrategias, canales digitales y herramientas utilizadas para fortalecer la presencia de las organizaciones en Internet, se recomienda el siguiente recurso:
             .col-12.col-lg-auto.text-start.text-lg-center
               a.boton.color-acento-botones(:href="'https://www.youtube.com/watch?v=nACJLWCmzk8'" target="_blank")

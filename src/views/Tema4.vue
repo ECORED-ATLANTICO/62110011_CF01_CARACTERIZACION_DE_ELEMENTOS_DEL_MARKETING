@@ -24,7 +24,7 @@
       img(src="@/assets/curso/tema4/img02.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-10(data-aos="fade-right")
-        p.banner-text El plan de mercadeo es un documento estratégico que organiza las acciones necesarias para alcanzar los objetivos comerciales de una organización durante un periodo determinado. En él se establecen las estrategias, actividades, recursos, responsables e indicadores que orientan la ejecución y evaluación de las acciones de marketing.
+        p.banner-text El plan de mercadeo es un documento estratégico que organiza las acciones necesarias para alcanzar los objetivos comerciales de una organización durante un periodo determinado. En él se establecen las estrategias, actividades, recursos, responsables e indicadores que orientan la ejecución y evaluación de las acciones de <em>marketing</em>.
 
 
     .row.mb-lg-4.mb-4.justify-content-center.align-items-center
