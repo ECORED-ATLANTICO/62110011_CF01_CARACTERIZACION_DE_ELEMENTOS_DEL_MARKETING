@@ -424,12 +424,12 @@ export default {
       autores: [
         {
           nombre: 'Mario Morales Cabrera',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll Gallardo',
-          cargo: 'Evaluador Instruccional',
+          nombre: 'Jair Enrique Coll Gallardo',
+          cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -473,13 +473,13 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Luis Gabriel Urueta',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
